@@ -1,6 +1,6 @@
 # Obsidian Ember - VSCode Theme Extension
 
-<div style="width: 100%; display: flex; flex-flow: column; align-items: center; gap: 32px;">
+<div style="width: 100%; display: flex; flex-wrap: wrap; justify-content: space-between; gap: 8px;">
 <img src="./assets/obsidian-ember-logo.png" alt="Logo" width="200" height="200" />
 
 <img src="https://cdn.discordapp.com/attachments/742040698404208641/1120720704271306833/image.png" alt="Logo" width="300" height="200" style="object-fit: cover"/>
