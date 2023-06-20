@@ -1,6 +1,6 @@
 # Obsidian Ember - VSCode Theme Extension
 
-<img src="./assets/obsidian-ember-logo.png" alt="Logo" width="200" height="200" />
+<img src="./assets/obsidian-ember-logo.png" alt="Logo" width="100" height="100" />
 <img src="https://cdn.discordapp.com/attachments/742040698404208641/1120720704271306833/image.png" alt="Logo" width="300" height="200" style="object-fit: cover"/>
 See more at https://themes.vscode.one/theme/Lvzitan/fvgxxmai
 
