@@ -1,6 +1,6 @@
 # Obsidian Ember - VSCode Theme Extension
 
-![Logo](./assets/obsidian-ember-logo.png)
+<img src="./assets/obsidian-ember-logo.png" alt="Logo" width="300" height="200" />
 
 Obsidian Ember is a visually captivating and dynamic Visual Studio Code (VSCode) theme extension designed for dark mode enthusiasts. It combines the allure of grayscale tones with vibrant orange highlights, creating a visually striking and harmonious coding experience.
 
