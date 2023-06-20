@@ -4,7 +4,7 @@
   "description": "Obsidian Ember is a sleek and striking VSCode theme crafted specifically for dark mode lovers. It features a grayscale palette with pops of orange highlights, adding a touch of energy to your coding experience.",
   "version": "1.0.0",
   "publisher": "lvzitan",
-  "icon": "./assets/obsidian-ember-logo.png",
+  "icon": "assets/obsidian-ember-logo.png",
   "engines": {
     "vscode": "^1.79.0"
   },
