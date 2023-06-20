@@ -26,6 +26,6 @@ Obsidian Ember is released under the MIT License. Feel free to use, modify, and 
 
 ## Thank you!
 
-Enjoy coding with Obsidian Ember and let me know if you would like me to add different versions in the future!
+**Enjoy** coding with Obsidian Ember and let me know if you would like me to add different versions in the future!
 
 The Obsidian Ember logo was designed by Lvzitan.
