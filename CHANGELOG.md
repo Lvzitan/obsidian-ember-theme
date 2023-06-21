@@ -28,7 +28,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Terminal color changes: no monochrome inside the terminal, instead I chose to add subtle colors that everyone is familiar with.
 
-[1.0.1]: https://github.com/Lvzitan/obsidian-ember-theme.git
+## [1.0.1]
+
+- Changes to the readme.md file.
+- Editor color changes.
 
 ## [1.0.0] - 2023-06-20
 
