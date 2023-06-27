@@ -5,10 +5,20 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [Unreleased]
+## Repo
 
 - https://github.com/Lvzitan/obsidian-ember-theme.git This is the main link to the repository.
 - In the future I will have a versioning system on GitHub for the theme as well as multiple alternative styles but for now I will only add the changes to the readme.md file.
+
+## [1.1.0] - 2023-06-27
+
+### Fixed
+
+- Fixed incoherent selection colors to create a more uniform theme.
+
+### Changed
+
+- Added more orange highlights to create a less dense grayscale while keeping the original idea.
 
 ## [1.0.5] - 2023-06-22
 
