@@ -10,7 +10,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - https://github.com/Lvzitan/obsidian-ember-theme.git This is the main link to the repository.
 - In the future I will have a versioning system on GitHub for the theme as well as multiple alternative styles but for now I will only add the changes to the readme.md file.
 
-## [1.1.2] - 2023-07-04
+## [1.1.3] - 2023-28-08
+
+### Fixed
+
+- Fixed displayed images in the readme.md file (they were displaying an older version).
+
+## [1.1.2] - 2023-07-05
 
 ### Changed
 
